@@ -1,9 +1,12 @@
 @import url("https://use.typekit.net/fsj7xht.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 @import "tailwindcss";
 
 @theme {
     --color-light: #F3F3F3;
     --color-dark: #181818;
     --color-apex-red: #EE3150;
+    --color-apex-red-highlight: #F54E6A;
     --font-new-science: "new-science-extended", sans-serif;
+    --default-font-family: "Inter", sans-serif;
 }
