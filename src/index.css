@@ -1,1 +1,9 @@
+@import url("https://use.typekit.net/fsj7xht.css");
 @import "tailwindcss";
+
+@theme {
+    --color-light: #F3F3F3;
+    --color-dark: #181818;
+    --color-apex-red: #EE3150;
+    --font-new-science: "new-science-extended", sans-serif;
+}
